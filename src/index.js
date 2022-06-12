@@ -8,7 +8,11 @@ const questions = require("./questions");
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+  inquirer.prompt(questions).then((answer) => {
+    console.log(answer);
+  });
+}
 
 // Function call to initialize app
 init();
