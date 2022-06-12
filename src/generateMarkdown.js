@@ -14,6 +14,51 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
 
+## Table of Contents
+
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
+
+## #Description
+
+${data.description}
+
+## Installation
+
+Please follow the instructions below:
+
+${data.installation.instructions}
+
+## Usage
+
+Please follow the instructions below:
+
+${data.usage.instructions}
+
+## License
+
+${data.license}
+
+MIT License
+
+## Contributing
+
+${data.contributions}
+
+## Tests
+
+Please follow the instructions below:
+
+${data.test.instructions}
+
+## Questions
+
+Please contact me on my email: ${data.email}
+
 `;
 }
 
