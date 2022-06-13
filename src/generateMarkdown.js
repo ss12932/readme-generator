@@ -50,27 +50,27 @@ const licenseObj = {
   },
 };
 
-function renderbadgeLink(license) {
+function renderBadgeLink(license) {
   if (license.length === 0) return "";
   for (const [key, { badge }] of Object.entries(licenseObj)) {
     if (license === key) {
       console.log(badge);
-      return `https://img.shields.io/static/v1?label=license&message=${badge}&color=green`;
-    }
-  }
-}
-renderbadgeLink("The Unlicense");
-function renderLicenseLink(license) {
-  if (license.length === 0) return "";
-  for (const [key, { licenseUrl }] of Object.entries(licenseObj)) {
-    if (license === key) {
-      return `https://choosealicense.com/licenses/${licenseUrl}`;
+      return `https://img.shields.io/static/v1?label=License&message=${badge}&color=green`;
     }
   }
 }
 
+function renderLicenseLink(license) {
+  if (license.length === 0) return "";
+  for (const [key, { licenseUrl }] of Object.entries(licenseObj)) {
+    if (license === key) {
+      return `https://choosealicense.com/licenses/${licenseUrl}/`;
+    }
+  }
+}
+console.log(renderLicenseLink("The Unlicense"));
 function generateMarkdown(data) {
-  return `# ${data.title} [License](${renderbadgeLink(data.license)})
+  return `# ${data.title} [License](${renderBadgeLink(data.license[0])})
 
 ## Table of Contents
 
@@ -104,10 +104,10 @@ ${data.usage.instructions}
 ## License
 
 This Project is licensed under ${
-    data.license
-  }, for more information please visit: [License]${renderLicenseLink(
-    data.license
-  )}
+    data.license[0]
+  }, for more information please visit: [License](${renderLicenseLink(
+    data.license[0]
+  )})
 
 MIT License
 

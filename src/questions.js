@@ -137,7 +137,8 @@ const questions = [
     name: "email",
     message: "Please enter an email address so someone can reach you",
     validate: (answer) => {
-      if (!answer) {
+      const emailRe = "^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+.[a-zA-Z0-9-.]+$";
+      if (!emailRe) {
         return "Please enter an email address to proceed";
       }
       return true;
