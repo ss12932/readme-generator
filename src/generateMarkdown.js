@@ -70,7 +70,7 @@ function renderLicenseLink(license) {
 }
 console.log(renderLicenseLink("The Unlicense"));
 function generateMarkdown(data) {
-  return `# ${data.title} [License](${renderBadgeLink(data.license[0])})
+  return `# ${data.title} ![License](${renderBadgeLink(data.license[0])})
 
 ## Table of Contents
 
@@ -105,7 +105,7 @@ ${data.usage.instructions}
 
 This Project is licensed under ${
     data.license[0]
-  }, for more information please visit: [License](${renderLicenseLink(
+  }, for more information please visit: ![License](${renderLicenseLink(
     data.license[0]
   )})
 

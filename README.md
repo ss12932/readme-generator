@@ -1,4 +1,4 @@
-# readme-generator [License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
+# readme-generator ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
 
 ## Table of Contents
 
@@ -9,7 +9,7 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-## # Description
+## Description
 
 This week's assignment is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.
 
@@ -31,7 +31,7 @@ When you run the `node index.js` command using the command line terminal, the ap
 
 ## License
 
-This Project is licensed under Apache License 2.0, for more information please visit: [License](https://choosealicense.com/licenses/apache-2.0/)
+This Project is licensed under Apache License 2.0, for more information please visit: ![License](https://choosealicense.com/licenses/apache-2.0/)
 
 MIT License
 
