@@ -81,7 +81,7 @@ function generateMarkdown(data) {
 - [Tests](#tests)
 - [Questions](#questions)
 
-## #Description
+## Description
 
 ${data.description}
 
