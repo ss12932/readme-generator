@@ -1,4 +1,4 @@
-# Example Project ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
+# example project ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
 
 ## Table of Contents
 
@@ -11,14 +11,14 @@
 
 ## Description
 
-Its a cool project
+this is an example
 
 ## Installation
 
 Please follow the instructions below:
 
 ```
-step 1 download project step 2 use project
+step1 step2 step3
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ step 1 download project step 2 use project
 Please follow the instructions below:
 
 ```
-use project
+usage 1 usage 2 usage 3
 ```
 
 ## License
@@ -37,14 +37,14 @@ MIT License
 
 ## Contributing
 
-no guidelines
+no guidlines
 
 ## Tests
 
 Please follow the instructions below:
 
 ```
-etc etc
+test 1 test2 test3
 ```
 
 ## Questions

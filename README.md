@@ -15,13 +15,13 @@ This week's assignment is to create a command-line application that dynamically 
 
 ## Video Link
 
-https://drive.google.com/file/d/1fHlcigqh0bYj1AMIaV1IbcDGFp38VDMy/view
+https://drive.google.com/file/d/1eeZ876LJRb0e8MZ8OEtU2OWdgAM3ctYb/view
 
 ## Installation
 
 Please follow the instructions below:
 
-In order to generate your very own professional README.md, please git clone this application onto your local machine. Follow this video [here](https://drive.google.com/file/d/1fHlcigqh0bYj1AMIaV1IbcDGFp38VDMy/view) which will provide a walkthrough of the whole installation and usage process.
+In order to generate your very own professional README.md, please git clone this application onto your local machine. Follow this video [here](https://drive.google.com/file/d/1eeZ876LJRb0e8MZ8OEtU2OWdgAM3ctYb/view) which will provide a walkthrough of the whole installation and usage process.
 
 Once cloned onto your local machine through your terminal, Next run `npm install` in order to install all the npm package dependencies needed to run the application.
 
