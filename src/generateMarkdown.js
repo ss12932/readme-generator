@@ -105,7 +105,7 @@ ${data.usage.instructions}
 
 This Project is licensed under ${
     data.license[0]
-  }, for more information please visit: ![License](${renderLicenseLink(
+  }, for more information please visit: [License](${renderLicenseLink(
     data.license[0]
   )})
 
