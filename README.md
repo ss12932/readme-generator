@@ -15,7 +15,7 @@ This week's assignment is to create a command-line application that dynamically 
 
 ## Video Link
 
-https://drive.google.com/file/d/1eeZ876LJRb0e8MZ8OEtU2OWdgAM3ctYb/view
+[Google Drive Link](https://drive.google.com/file/d/1eeZ876LJRb0e8MZ8OEtU2OWdgAM3ctYb/view)
 
 ## Installation
 
@@ -35,7 +35,7 @@ When you run the `node index.js` command using the command line terminal mention
 
 ## License
 
-This Project is licensed under Apache License 2.0, for more information please visit: ![License](https://choosealicense.com/licenses/apache-2.0/)
+This Project is licensed under Apache License 2.0, for more information please visit: [License](https://choosealicense.com/licenses/apache-2.0/)
 
 MIT License
 
