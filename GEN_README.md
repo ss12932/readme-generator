@@ -1,4 +1,4 @@
-# readme-generator [License](https://img.shields.io/static/v1?label=License&message=Apache+2.0&color=green)
+# s ![License](https://img.shields.io/static/v1?label=License&message=Apache+2.0&color=green)
 
 ## Table of Contents
 
@@ -9,16 +9,16 @@
 - [Tests](#tests)
 - [Questions](#questions)
 
-## # Description
+## Description
 
-This week's assignment is to # s [License](https://img.shields.io/static/v1?label=License&message=Apache+2.0&color=green)
+s
 
 ## Installation
 
 Please follow the instructions below:
 
 ```
-- [Contributing](#contributing)
+none
 ```
 
 ## Usage
@@ -26,7 +26,7 @@ Please follow the instructions below:
 Please follow the instructions below:
 
 ```
-## Installation
+none
 ```
 
 ## License
@@ -37,16 +37,17 @@ MIT License
 
 ## Contributing
 
-Please follow the instructions below:
+s
 
 ## Tests
 
 Please follow the instructions below:
 
 ```
-undefined
+none
 ```
 
 ## Questions
 
-Please contact me on my email: ## Contributing
+Please contact me on my email: s
+
