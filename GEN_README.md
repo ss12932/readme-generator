@@ -1,4 +1,4 @@
-# s ![License](https://img.shields.io/static/v1?label=License&message=Apache+2.0&color=green)
+# example project ![License](https://img.shields.io/static/v1?label=License&message=MIT&color=green)
 
 ## Table of Contents
 
@@ -11,14 +11,14 @@
 
 ## Description
 
-s
+this is an example
 
 ## Installation
 
 Please follow the instructions below:
 
 ```
-none
+step1 step2 step3
 ```
 
 ## Usage
@@ -26,28 +26,27 @@ none
 Please follow the instructions below:
 
 ```
-none
+usage 1 usage 2 usage 3
 ```
 
 ## License
 
-This Project is licensed under Apache License 2.0, for more information please visit: [License](https://choosealicense.com/licenses/apache-2.0/)
+This Project is licensed under MIT License, for more information please visit: [License](https://choosealicense.com/licenses/mit/)
 
 MIT License
 
 ## Contributing
 
-s
+no guidlines
 
 ## Tests
 
 Please follow the instructions below:
 
 ```
-none
+test 1 test2 test3
 ```
 
 ## Questions
 
-Please contact me on my email: s
-
+Please contact me on my email: ss12932@my.bristol.ac.uk
